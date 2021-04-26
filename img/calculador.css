@@ -18,23 +18,35 @@ body {
 
     font-family: Arial, Sans-serif;
 
-    background: #83ee75;
+    background: #1c1d1c;
 
-    color: #000000;
+    color: #ece3e3;
+    margin: 0px 350px 0px 250px;
    
 
 }
 h1{
     text-align: center;
-    border-color: #000000;
-    border-style: solid;
+    border-color: #e1f14b;
+    border-style: double;
     border-width: 10px;
     width: 600px;
     margin: 20px;
 }
 .pp{
     text-align: center;
+    background-color: #eee5e9;
+    padding: 5px;
+    border-radius: 100px;
+
 }
+.ss{
+    text-align: center;
+    line-height: 32px;
+    
+
+}
+
 
 
 .contenedor {
@@ -46,9 +58,10 @@ h1{
     background: #eee5e9;
 
     padding: 20px;
-    border-color: #000000;
-    border-style: solid;
+    border-color: #171816;
+    border-style: double;
     border-width: 10px;
+    background-image: url(https://previews.123rf.com/images/cherezoff/cherezoff1801/cherezoff180100307/93024587-fondo-abstracto-con-n%C3%BAmeros-volar-n%C3%BAmeros-sobre-fondo-negro.jpg);
 
 }
 
